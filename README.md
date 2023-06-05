@@ -1,6 +1,6 @@
-Predicting iOS App Ratings
+# Predicting iOS App Ratings
 
-Contributors:
+## Contributors:
 - Rahil Parikh
 - Himanshu Nimonkar
 - Vaishnavi Vengurlekar
